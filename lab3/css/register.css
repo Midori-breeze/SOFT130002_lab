@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    color: #000000;
+    background-repeat: no-repeat;
+    background-image: url("../images/background.jpg");
+    background-attachment: fixed;
+    background-size: 100% 150%;
+
+}
+
+nav {
+    background-color: white;
+    text-align: right;
+    height: 50px;
+}
+
+nav a {
+    padding-top: 10pt;
+    float: right;
+    color: black;
+    padding-right: 24%;
+    text-decoration: none;
+}
+
+section {
+
+    margin-top: 28px;
+    margin-bottom: 0;
+    text-align: center;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+
+input, textarea {
+    padding: 0.5em;
+    margin: 0.5em 0;
+    width: 20%;
+    background-color: #ffffff;
+    border: #56707f solid 1px;
+    border-radius: 3px;
+    color: #000000
+}
+
+input[type="checkbox"], input[type="radio"] {
+    width: 2em;
+}
+
+input[type="button"], input[type="submit"] {
+    background-color: #ffffff;
+    border: #171a21 solid 1px;
+    width: 4em;
+}
+
+input[type="button"], input[type="submit"], input[type="checkbox"], input[type="radio"], select:hover {
+    cursor: pointer;
+    width: auto;
+}
+
+img {
+    margin-left: 160px;
+}
+
+textarea {
+    height: 15em;
+    width: 400px;
+}
+
+input.verify {
+    width: 150px;
+}
+
+p.verify {
+    margin-left: 10px;
+    width: auto;
+}
+
+span.verify {
+    margin-left: -50px;
+}
+
+a:hover {
+    color: #353ee2;
+}
+

@@ -1,0 +1,105 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    color: #000000;
+    background: url("../images/background.jpg") no-repeat fixed;
+    background-size: 100% 150%;
+}
+
+header nav {
+    background-color: white;
+    text-align: left;
+    height: 50px;
+
+}
+
+
+nav {
+    float: left;
+    padding-top: 5pt;
+    padding-left: 15%;
+    font-size: 12pt;
+    width: 85%;
+
+}
+
+nav a {
+    padding: 10px;
+    color: gray;
+    text-decoration: none;
+}
+
+nav img {
+    vertical-align: -10pt;
+}
+
+.div-right {
+    display: inline;
+}
+
+.div-right a {
+    padding-top: 10pt;
+    float: right;
+    color: black;
+    padding-right: 24%;
+    text-decoration: none;
+}
+
+h4 {
+    font-size: 13pt;
+    line-height: 1rem;
+}
+
+h4:hover {
+    color: #353ee2;
+
+}
+
+.page {
+    float: right;
+    padding-right: 30%;
+}
+
+.page span {
+    color: blue;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.agree:hover {
+    color: blue;
+}
+
+section {
+    padding-top: 70pt;
+    margin: 0 30% 0 16%;
+}
+
+article {
+    padding: 5pt 20pt 5pt 20pt;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+    margin-bottom: 20pt;
+    line-height: 20pt;
+}
+
+aside {
+    float: right;
+    margin: 5% 18% 0 0;
+
+    background-color: rgba(255, 255, 255, 0.75);
+    border-radius: 10px;
+    padding: 0 15pt 0 15pt;
+}
+
+aside a {
+    color: black;
+    font-size: 14pt;
+    text-decoration: none;
+    line-height: 50pt;
+
+}
+
+a:hover {
+    color: #87bff2;
+}
