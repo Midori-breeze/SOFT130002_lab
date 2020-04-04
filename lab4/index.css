@@ -1,0 +1,40 @@
+.navbar-brand {
+    padding: 6px 6px;
+}
+
+body {
+    background-color: #333333;
+}
+
+footer {
+    background-color: #333333;
+}
+
+.row {
+    margin-top: 30px;
+    margin-left: 110px;
+}
+
+.copyright {
+    color: white;
+    text-align: center;
+}
+
+.carousel-inner img {
+    width: 640pt;
+    height: 360pt;
+}
+
+.dropdown-menu {
+    background-color: gray;
+}
+
+.dropdown-menu li {
+    font-color: blue;
+}
+.pictures{
+    margin-left: 5%;
+}
+footer a {
+    color: white;
+}
