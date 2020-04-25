@@ -35,4 +35,6 @@
 再用for (let i in obj)遍历数组，得出出现最多的字符和出现的次数。
 
 ## 网页效果截图
-![网页效果截图](D:\a-web_lab\lab5\images\实现情况.jpg)
+![网页效果截图](images/实现情况.jpg)
+## github截图
+![github截图](images/github截图.jpg)
